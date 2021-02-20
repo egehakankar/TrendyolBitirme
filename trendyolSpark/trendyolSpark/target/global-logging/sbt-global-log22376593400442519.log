@@ -1,0 +1,11 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(run, Some(5012af44-c898-4e15-a4d0-d7fef4d096ec), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / run[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: bloop.integrations.sbt.Offloader$$anon$1@68c3aa38, check cycles: false, forcegc: true[0m
+[0m[[0m[33mwarn[0m] [0m[0mThere may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to C:\Users\Hakan\OneDrive\Desktop\Lessons\4. Year\2nd Semester\trendyol\trendyolSpark\trendyolSpark\target\scala-2.11\classes ...[0m
+[0m[[0m[31merror[0m] [0m[0mNonzero exit code: 1[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mrun[0m) Nonzero exit code: 1[0m
+[0m[[0m[31merror[0m] [0m[0mTotal time: 40 s, completed Feb 18, 2021, 5:18:28 PM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
+[0m[[0m[31merror[0m] [0m[0mserver failed to start on local:sbt-server-1e5d42ea81977977c801. java.io.IOException: Could not create lock for \\.\pipe\sbt-server-1e5d42ea81977977c801_lock, error 5[0m
+[0m[[0m[0mdebug[0m] [0m[0mForcing garbage collection...[0m

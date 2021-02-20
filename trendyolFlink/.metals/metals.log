@@ -1,0 +1,12 @@
+[0m2021.02.20 00:24:01 INFO  Started: Metals version 0.9.10 in workspace 'C:\Users\Hakan\OneDrive\Desktop\Lessons\4. Year\2nd Semester\trendyol\trendyolFlink' for client vscode 1.53.2.[0m
+[0m2021.02.20 00:24:04 INFO  time: initialize in 2.93s[0m
+[0m2021.02.20 00:24:05 WARN  Build server is not auto-connectable.[0m
+[0m2021.02.20 00:24:05 WARN  no build tool detected in workspace 'C:\Users\Hakan\OneDrive\Desktop\Lessons\4. Year\2nd Semester\trendyol\trendyolFlink'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+Feb 20, 2021 12:25:55 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+[0m2021.02.20 00:26:28 INFO  [0m
+[0m2021.02.20 00:26:28 INFO  Template applied in C:\Users\Hakan\OneDrive\Desktop\Lessons\4. Year\2nd Semester\trendyol\trendyolFlink\.\trendyolflink[0m
+[0m2021.02.20 00:26:28 INFO  [0m
+[0m2021.02.20 00:26:28 INFO  giter8.Giter8 exit: 0[0m
+[0m2021.02.20 00:26:28 INFO  time: ran 'giter8.Giter8' in 4.36s[0m
+[0m2021.02.20 00:26:38 INFO  shutting down Metals[0m

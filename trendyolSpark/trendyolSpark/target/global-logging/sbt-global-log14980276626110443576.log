@@ -1,0 +1,6 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(run, Some(8f173467-d947-4d4b-812b-ef5464a32990), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / run[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: bloop.integrations.sbt.Offloader$$anon$1@7210f559, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to C:\Users\Hakan\OneDrive\Desktop\Lessons\4. Year\2nd Semester\trendyol\trendyolSpark\trendyolSpark\target\scala-2.11\classes ...[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 12 s, completed Feb 19, 2021, 11:54:18 AM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m

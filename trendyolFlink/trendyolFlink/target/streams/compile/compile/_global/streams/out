@@ -1,0 +1,34 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Hakan\OneDrive\Desktop\Lessons\4. Year\2nd Semester\trendyol\trendyolFlink\trendyolFlink\src\main\scala\flink\FlinkTrendyol.scala:18:17: not found: type KafkaTableSource[0m
+[0m[[0m[31merror[0m] [0m[0m    val source: KafkaTableSource = Kafka010JsonTableSource.builder()[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Hakan\OneDrive\Desktop\Lessons\4. Year\2nd Semester\trendyol\trendyolFlink\trendyolFlink\src\main\scala\flink\FlinkTrendyol.scala:18:36: not found: value Kafka010JsonTableSource[0m
+[0m[[0m[31merror[0m] [0m[0m    val source: KafkaTableSource = Kafka010JsonTableSource.builder()[0m
+[0m[[0m[31merror[0m] [0m[0m                                   ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Hakan\OneDrive\Desktop\Lessons\4. Year\2nd Semester\trendyol\trendyolFlink\trendyolFlink\src\main\scala\flink\FlinkTrendyol.scala:24:17: not found: value TableSchema[0m
+[0m[[0m[31merror[0m] [0m[0m    .withSchema(TableSchema.builder()[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Hakan\OneDrive\Desktop\Lessons\4. Year\2nd Semester\trendyol\trendyolFlink\trendyolFlink\src\main\scala\flink\FlinkTrendyol.scala:25:29: not found: value Types[0m
+[0m[[0m[31merror[0m] [0m[0m      .field("customer_id", Types.STRING)[0m
+[0m[[0m[31merror[0m] [0m[0m                            ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Hakan\OneDrive\Desktop\Lessons\4. Year\2nd Semester\trendyol\trendyolFlink\trendyolFlink\src\main\scala\flink\FlinkTrendyol.scala:26:26: not found: value Types[0m
+[0m[[0m[31merror[0m] [0m[0m      .field("location", Types.STRING)[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Hakan\OneDrive\Desktop\Lessons\4. Year\2nd Semester\trendyol\trendyolFlink\trendyolFlink\src\main\scala\flink\FlinkTrendyol.scala:27:28: not found: value Types[0m
+[0m[[0m[31merror[0m] [0m[0m      .field("order_date", Types.SQL_TIMESTAMP)[0m
+[0m[[0m[31merror[0m] [0m[0m                           ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Hakan\OneDrive\Desktop\Lessons\4. Year\2nd Semester\trendyol\trendyolFlink\trendyolFlink\src\main\scala\flink\FlinkTrendyol.scala:28:26: not found: value Types[0m
+[0m[[0m[31merror[0m] [0m[0m      .field("order_id", Types.STRING)[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Hakan\OneDrive\Desktop\Lessons\4. Year\2nd Semester\trendyol\trendyolFlink\trendyolFlink\src\main\scala\flink\FlinkTrendyol.scala:29:23: not found: value Types[0m
+[0m[[0m[31merror[0m] [0m[0m      .field("price", Types.STRING)[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Hakan\OneDrive\Desktop\Lessons\4. Year\2nd Semester\trendyol\trendyolFlink\trendyolFlink\src\main\scala\flink\FlinkTrendyol.scala:30:28: not found: value Types[0m
+[0m[[0m[31merror[0m] [0m[0m      .field("product_id", Types.STRING)[0m
+[0m[[0m[31merror[0m] [0m[0m                           ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Hakan\OneDrive\Desktop\Lessons\4. Year\2nd Semester\trendyol\trendyolFlink\trendyolFlink\src\main\scala\flink\FlinkTrendyol.scala:31:27: not found: value Types[0m
+[0m[[0m[31merror[0m] [0m[0m      .field("seller_id", Types.STRING)[0m
+[0m[[0m[31merror[0m] [0m[0m                          ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Hakan\OneDrive\Desktop\Lessons\4. Year\2nd Semester\trendyol\trendyolFlink\trendyolFlink\src\main\scala\flink\FlinkTrendyol.scala:32:24: not found: value Types[0m
+[0m[[0m[31merror[0m] [0m[0m      .field("status", Types.STRING)[0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m11 errors found[0m

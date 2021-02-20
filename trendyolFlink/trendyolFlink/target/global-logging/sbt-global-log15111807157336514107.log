@@ -1,0 +1,14 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(run, Some(0f8eb910-aeab-4614-a6a4-34e2a3db3405), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / run[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to C:\Users\Hakan\OneDrive\Desktop\Lessons\4. Year\2nd Semester\trendyol\trendyolFlink\trendyolFlink\target\scala-2.11\classes ...[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Hakan\OneDrive\Desktop\Lessons\4. Year\2nd Semester\trendyol\trendyolFlink\trendyolFlink\src\main\scala\flink\Main.scala:9:34: not found: type FlinkKafkaConsumer[0m
+[0m[[0m[31merror[0m] [0m[0m  val stream = env.addSource(new FlinkKafkaConsumer[String]("topic", new SimpleStringSchema(), properties))[0m
+[0m[[0m[31merror[0m] [0m[0m                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Hakan\OneDrive\Desktop\Lessons\4. Year\2nd Semester\trendyol\trendyolFlink\trendyolFlink\src\main\scala\flink\Main.scala:9:74: not found: type SimpleStringSchema[0m
+[0m[[0m[31merror[0m] [0m[0m  val stream = env.addSource(new FlinkKafkaConsumer[String]("topic", new SimpleStringSchema(), properties))[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mcompileIncremental[0m) Compilation failed[0m
+[0m[[0m[31merror[0m] [0m[0mTotal time: 3 s, completed Feb 20, 2021, 4:24:17 AM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m

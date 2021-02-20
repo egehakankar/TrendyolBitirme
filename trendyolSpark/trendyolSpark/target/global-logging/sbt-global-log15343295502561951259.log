@@ -1,0 +1,12 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(run, Some(3c20cff7-1496-4ae4-bb1c-21b8433e5c1d), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / run[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: bloop.integrations.sbt.Offloader$$anon$1@507f47f9, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to C:\Users\Hakan\OneDrive\Desktop\Lessons\4. Year\2nd Semester\trendyol\trendyolSpark\trendyolSpark\target\scala-2.11\classes ...[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Hakan\OneDrive\Desktop\Lessons\4. Year\2nd Semester\trendyol\trendyolSpark\trendyolSpark\src\main\scala\spark\SparkAllJobs.scala:177:18: not enough arguments for method withColumn: (colName: String, col: org.apache.spark.sql.Column)org.apache.spark.sql.DataFrame.[0m
+[0m[[0m[31merror[0m] [0m[0mUnspecified value parameter col.[0m
+[0m[[0m[31merror[0m] [0m[0m      .withColumn("product_id")[0m
+[0m[[0m[31merror[0m] [0m[0m                 ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mcompileIncremental[0m) Compilation failed[0m
+[0m[[0m[31merror[0m] [0m[0mTotal time: 1 s, completed Feb 20, 2021, 7:05:51 AM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m

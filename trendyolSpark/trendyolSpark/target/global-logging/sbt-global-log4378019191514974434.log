@@ -1,0 +1,5 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(__stopWatch network-1, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, shutdown, [false,null])[0m
+[0m[[0m[0minfo[0m] [0m[0msbt server started at local:sbt-server-1e5d42ea81977977c801[0m
+[0m[[0m[0minfo[0m] [0m[0mstarted sbt server[0m

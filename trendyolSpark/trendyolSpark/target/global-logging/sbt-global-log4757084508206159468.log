@@ -1,0 +1,9 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(run, Some(5df0f7aa-6701-4d1e-ac7b-cfe6ffd273c9), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / run[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: bloop.integrations.sbt.Offloader$$anon$1@36cf16a6, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to C:\Users\Hakan\OneDrive\Desktop\Lessons\4. Year\2nd Semester\trendyol\trendyolSpark\trendyolSpark\target\scala-2.11\classes ...[0m
+[0m[[0m[33mwarn[0m] [0m[0mthere were two deprecation warnings; re-run with -deprecation for details[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 84 s (01:24), completed Feb 18, 2021, 11:49:20 PM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
+[0m[[0m[31merror[0m] [0m[0mserver failed to start on local:sbt-server-1e5d42ea81977977c801. java.io.IOException: Could not create lock for \\.\pipe\sbt-server-1e5d42ea81977977c801_lock, error 5[0m

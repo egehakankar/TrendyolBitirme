@@ -1,0 +1,45 @@
+[0m2021.02.20 01:32:00 INFO  Started: Metals version 0.9.10 in workspace 'C:\Users\Hakan\OneDrive\Desktop\Lessons\4. Year\2nd Semester\trendyol\bootcamp-deng-project\data-producer' for client vscode 1.53.2.[0m
+[0m2021.02.20 01:32:04 INFO  time: initialize in 4.28s[0m
+[0m2021.02.20 01:32:07 WARN  Build server is not auto-connectable.[0m
+[0m2021.02.20 01:32:56 INFO  no build target: using presentation compiler with only scala-library[0m
+[0m2021.02.20 01:33:00 WARN  no build target for: C:\Users\Hakan\OneDrive\Desktop\Lessons\4. Year\2nd Semester\trendyol\bootcamp-deng-project\data-producer\src\main\scala\com\trendyol\dataeng\bootcamp\DataProducer.scala[0m
+[0m2021.02.20 01:34:17 WARN  no build target for: C:\Users\Hakan\OneDrive\Desktop\Lessons\4. Year\2nd Semester\trendyol\bootcamp-deng-project\data-producer\build.sbt[0m
+[0m2021.02.20 01:34:42 WARN  no build target for: C:\Users\Hakan\OneDrive\Desktop\Lessons\4. Year\2nd Semester\trendyol\bootcamp-deng-project\data-producer\build.sbt[0m
+[0m2021.02.20 01:34:42 WARN  Unable to produce semanticdb for C:\Users\Hakan\OneDrive\Desktop\Lessons\4. Year\2nd Semester\trendyol\bootcamp-deng-project\data-producer\build.sbt[0m
+[0m2021.02.20 01:34:53 WARN  code navigation does not work for the file 'C:\Users\Hakan\OneDrive\Desktop\Lessons\4. Year\2nd Semester\trendyol\bootcamp-deng-project\data-producer\build.sbt' because it doesn't belong to a build target.[0m
+[0m2021.02.20 01:34:53 WARN  no build target for: C:\Users\Hakan\OneDrive\Desktop\Lessons\4. Year\2nd Semester\trendyol\bootcamp-deng-project\data-producer\build.sbt[0m
+[0m2021.02.20 01:34:53 WARN  Unable to produce semanticdb for C:\Users\Hakan\OneDrive\Desktop\Lessons\4. Year\2nd Semester\trendyol\bootcamp-deng-project\data-producer\build.sbt[0m
+[0m2021.02.20 01:35:02 WARN  no build target for: C:\Users\Hakan\OneDrive\Desktop\Lessons\4. Year\2nd Semester\trendyol\bootcamp-deng-project\data-producer\src\main\scala\com\trendyol\dataeng\bootcamp\DataProducer.scala[0m
+[0m2021.02.20 01:35:05 WARN  no build target for: C:\Users\Hakan\OneDrive\Desktop\Lessons\4. Year\2nd Semester\trendyol\bootcamp-deng-project\data-producer\src\main\scala\com\trendyol\dataeng\bootcamp\KafkaWriter.scala[0m
+[0m2021.02.20 01:35:23 WARN  no build target for: C:\Users\Hakan\OneDrive\Desktop\Lessons\4. Year\2nd Semester\trendyol\bootcamp-deng-project\data-producer\src\main\scala\com\trendyol\dataeng\bootcamp\DataProducer.scala[0m
+[0m2021.02.20 01:54:23 WARN  no build target for: C:\Users\Hakan\OneDrive\Desktop\Lessons\4. Year\2nd Semester\trendyol\bootcamp-deng-project\data-producer\src\main\scala\com\trendyol\dataeng\bootcamp\DataProducer.scala[0m
+[0m2021.02.20 01:54:36 WARN  no build target for: C:\Users\Hakan\OneDrive\Desktop\Lessons\4. Year\2nd Semester\trendyol\bootcamp-deng-project\data-producer\src\main\scala\com\trendyol\dataeng\bootcamp\KafkaWriter.scala[0m
+[0m2021.02.20 02:03:14 INFO  shutting down Metals[0m
+[0m2021.02.20 08:37:20 INFO  Started: Metals version 0.9.10 in workspace 'D:\Trendyol\bootcamp-deng-project\data-producer' for client vscode 1.53.2.[0m
+[0m2021.02.20 08:37:24 INFO  time: initialize in 4.16s[0m
+[0m2021.02.20 08:37:26 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol tcp --port 15222'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Waiting for a connection at 127.0.0.1:15222...
+The server is listening for incoming connections at tcp://127.0.0.1:15222...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.02.20 08:37:27 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Hakan\AppData\Local\scalameta\metals\cache\bsp.trace.json[0m
+[0m2021.02.20 08:37:27 INFO  time: connected to build server in 1.26s[0m
+[0m2021.02.20 08:37:27 INFO  Connected to Build server v1.4.6-21-464e4ec4[0m
+[0m2021.02.20 08:37:27 ERROR Empty build targets. Expected at least one build target identifier.[0m
+[0m2021.02.20 08:37:27 ERROR Empty build targets. Expected at least one build target identifier.[0m
+[0m2021.02.20 08:37:27 ERROR Empty build targets. Expected at least one build target identifier.[0m
+[0m2021.02.20 08:37:31 INFO  time: indexed workspace in 3.72s[0m
+[0m2021.02.20 08:38:16 INFO  no build target: using presentation compiler with only scala-library[0m
+[0m2021.02.20 08:38:21 WARN  no build target for: D:\Trendyol\bootcamp-deng-project\data-producer\src\main\scala\com\trendyol\dataeng\bootcamp\DataProducer.scala[0m
+Feb 20, 2021 8:38:21 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+Feb 20, 2021 8:38:21 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+[0m2021.02.20 08:38:21 WARN  no build target for: D:\Trendyol\bootcamp-deng-project\data-producer\src\main\scala\com\trendyol\dataeng\bootcamp\KafkaWriter.scala[0m
+[0m2021.02.20 08:52:37 INFO  shutting down Metals[0m
+[0m2021.02.20 08:52:37 INFO  Shut down connection with build server.[0m
+No more data in the client stdin, exiting...
+No more data in the server stdin, exiting...

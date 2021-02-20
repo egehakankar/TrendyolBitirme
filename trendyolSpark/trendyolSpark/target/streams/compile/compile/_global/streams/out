@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0mD:\Trendyol\trendyolSpark\trendyolSpark\src\main\scala\spark\SparkAllJobs.scala:89:15: not found: value orders2[0m
+[0m[[0m[31merror[0m] [0m[0m    val jon = orders2[0m
+[0m[[0m[31merror[0m] [0m[0m              ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Trendyol\trendyolSpark\trendyolSpark\src\main\scala\spark\SparkAllJobs.scala:90:21: not found: value orders2[0m
+[0m[[0m[31merror[0m] [0m[0m    .join(products, orders2("product_id") === products("productid"), "inner")[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Trendyol\trendyolSpark\trendyolSpark\src\main\scala\spark\SparkAllJobs.scala:91:11: not found: value orders2[0m
+[0m[[0m[31merror[0m] [0m[0m    .drop(orders2("product_id"))[0m
+[0m[[0m[31merror[0m] [0m[0m          ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
